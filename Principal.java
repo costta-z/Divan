@@ -160,7 +160,7 @@ public class Principal {
                                     case 1:
                                     case 2:
                                     case 3:
-                                        System.out.println("\n[Funcionalidade em andamento...]");
+                                        System.out.println("\n[Em desenvolvimento...]");
                                         break;
                                     case 4:
                                         System.out.println("\nLogout efetuado. Voltando ao menu principal...");
